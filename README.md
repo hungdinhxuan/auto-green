@@ -17,8 +17,8 @@ For more information about GitHub Actions, see the official documentation [Intro
 ## Usage
 
 - Click the **Use this template** button in the top right to copy this GitHub repository. **:warning: Do NOT Fork, because fork activity won't make your contribution graph green :warning:**
-- Modify [lines 23-24 in ci.yml](https://github.com/justjavac/auto-green/blob/master/.github/workflows/ci.yml#L23-L24) to set your GitHub email and name
-- (Optional) You can adjust the schedule by modifying [line 8 in ci.yml](https://github.com/justjavac/auto-green/blob/master/.github/workflows/ci.yml#L8)
+- Modify [lines 23-24 in ci.yml](https://github.com/hungdinhxuan/auto-green/blob/master/.github/workflows/ci.yml#L23-L24) to set your GitHub email and name
+- (Optional) You can adjust the schedule by modifying [line 8 in ci.yml](https://github.com/hungdinhxuan/auto-green/blob/master/.github/workflows/ci.yml#L8)
 
 The cron schedule syntax has 5 fields, separated by spaces, each representing a time unit.
 
@@ -49,4 +49,4 @@ The default schedule is `0 0 * * *`, which runs once daily at midnight UTC.
 
 ## License
 
-[auto-green](https://github.com/justjavac/auto-green) is released under the MIT License. See the bundled [LICENSE](./LICENSE) file for details.
+[auto-green](https://github.com/hungdinhxuan/auto-green) is released under the MIT License. See the bundled [LICENSE](./LICENSE) file for details.
